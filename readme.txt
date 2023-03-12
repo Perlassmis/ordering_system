@@ -1,0 +1,1 @@
+there are 2 projects but they are coding with different types. pizza_ordering_system file has not a gui but the other one (pizza_with_gui) has a simple gui. You can evaluate it in two different ways. I wanted to send both together. but the important thing for me is pizza_ordering_system.py. thanks
